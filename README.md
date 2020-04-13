@@ -1,3 +1,4 @@
+#To clarify, we were instructed to post this repository publicly
 # Lab 0
 
 Welcome to EECS388!
